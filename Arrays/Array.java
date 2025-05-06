@@ -17,6 +17,10 @@ public class Array {
 
         System.out.println(rnos2[4]);
 
+        String[] arr = new String[4];
+        System.out.println(arr[2]); //null
+
+
 
     }
 }
