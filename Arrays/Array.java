@@ -15,6 +15,8 @@ public class Array {
         int[] rnos3; //declaratiopn of array
         rnos3 = new int[5]; //here object is getting created in the memory in the heap
 
+        System.out.println(rnos2[4]);
+
 
     }
 }
